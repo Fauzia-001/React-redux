@@ -1,3 +1,3 @@
 # React Redux
 
-https://github.com/DBusuru/Redux_checkpoint.git
+https://github.com/Fauzia-001/React-redux.git
